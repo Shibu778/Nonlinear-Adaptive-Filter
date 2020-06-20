@@ -1,2 +1,2 @@
-# Code Written by me
-Use these codes at your own risk
+# Nonlinear Adaptive Filter
+Python and Matlab code for nonlinear adaptive filter.
